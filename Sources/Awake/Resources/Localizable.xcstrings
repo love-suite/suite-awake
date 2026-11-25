@@ -1,0 +1,376 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "After %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Après %@"
+          }
+        }
+      }
+    },
+    "Awake": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Awake"
+          }
+        }
+      }
+    },
+    "Awake is off": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Awake est arrêté"
+          }
+        }
+      }
+    },
+    "Awake stopped": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Awake s'est arrêté"
+          }
+        }
+      }
+    },
+    "Awake until stopped": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Éveillé jusqu’à l’arrêt"
+          }
+        }
+      }
+    },
+    "Awake, %@ left": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Éveillé, encore %@"
+          }
+        }
+      }
+    },
+    "Awake, on": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Awake, activé"
+          }
+        }
+      }
+    },
+    "Awake, on, lid can stay closed": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Awake, activé, le capot peut rester fermé"
+          }
+        }
+      }
+    },
+    "Awake: click to keep the Mac awake": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Awake : cliquez pour garder le Mac éveillé"
+          }
+        }
+      }
+    },
+    "Duration": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durée"
+          }
+        }
+      }
+    },
+    "Keep Awake": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Garder éveillé"
+          }
+        }
+      }
+    },
+    "Lid Closed": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé"
+          }
+        }
+      }
+    },
+    "Lid closed turned off": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé désactivé"
+          }
+        }
+      }
+    },
+    "Lid closed: Low Power Mode is on": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé : mode Économie d’énergie activé"
+          }
+        }
+      }
+    },
+    "Lid closed: battery too low": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé : batterie trop faible"
+          }
+        }
+      }
+    },
+    "Lid closed: refused by macOS": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé : refusé par macOS"
+          }
+        }
+      }
+    },
+    "Lid closed: the Mac is too hot": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé : le Mac est trop chaud"
+          }
+        }
+      }
+    },
+    "Lid closed: time limit reached": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé : durée maximale atteinte"
+          }
+        }
+      }
+    },
+    "Lid closed: unavailable": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé : indisponible"
+          }
+        }
+      }
+    },
+    "Lid closed: waiting": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé : en attente"
+          }
+        }
+      }
+    },
+    "Lid closed: waiting for power": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capot fermé : en attente du secteur"
+          }
+        }
+      }
+    },
+    "Never": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jamais"
+          }
+        }
+      }
+    },
+    "Open at Login": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir à la connexion"
+          }
+        }
+      }
+    },
+    "Options": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Options"
+          }
+        }
+      }
+    },
+    "Quit Awake": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitter Awake"
+          }
+        }
+      }
+    },
+    "Screen Off, Mac On": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Écran éteint, Mac allumé"
+          }
+        }
+      }
+    },
+    "Stop": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrêter"
+          }
+        }
+      }
+    },
+    "Stopped: Low Power Mode is on": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrêté : mode Économie d’énergie activé"
+          }
+        }
+      }
+    },
+    "Stopped: battery below %d %%": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrêté : batterie sous %d %%"
+          }
+        }
+      }
+    },
+    "Stopped: the Mac is too hot": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrêté : le Mac est trop chaud"
+          }
+        }
+      }
+    },
+    "Stopped: time is up": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrêté : temps écoulé"
+          }
+        }
+      }
+    },
+    "The Mac stays awake with its lid closed, without an external display: on power only, for %d hours at most, never when it is hot. A closed Mac cools less well: never put it in a bag while Awake is on.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le Mac reste éveillé capot fermé, sans écran externe : sur secteur seulement, %d heures au plus, jamais quand il chauffe. Un Mac fermé refroidit moins bien : ne le mettez jamais dans un sac pendant qu’Awake est activé."
+          }
+        }
+      }
+    },
+    "The lid can stay closed": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le capot peut rester fermé"
+          }
+        }
+      }
+    },
+    "Until": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jusqu’à"
+          }
+        }
+      }
+    },
+    "Until %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jusqu’à %@"
+          }
+        }
+      }
+    },
+    "Until Stopped": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jusqu’à l’arrêt"
+          }
+        }
+      }
+    },
+    "While Awake is on, the screen goes off after this long without use; the Mac stays awake.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendant qu’Awake est activé, l’écran s’éteint après ce délai sans utilisation ; le Mac reste éveillé."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
